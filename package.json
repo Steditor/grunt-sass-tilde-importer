@@ -1,6 +1,6 @@
 {
   "name": "grunt-sass-tilde-importer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Resolves paths starting with ~ inside the node_modules directory",
   "main": "index.js",
   "scripts": {
