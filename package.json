@@ -20,6 +20,12 @@
   ],
   "author": "Stefan Neubert",
   "license": "MIT",
+  "files": [
+    "index.js",
+    "LICENSE.md",
+    "README.md",
+    "tasks"
+  ],
   "bugs": {
     "url": "https://github.com/Steditor/grunt-sass-tilde-importer/issues"
   },
