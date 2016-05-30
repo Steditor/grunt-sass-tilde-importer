@@ -1,0 +1,27 @@
+{
+  "name": "grunt-sass-tilde-importer",
+  "version": "0.0.0",
+  "description": "Resolves paths starting with ~ inside the node_modules directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Steditor/grunt-sass-tilde-importer.git"
+  },
+  "keywords": [
+    "grunt-sass",
+    "tilde",
+    "node_modules",
+    "scss",
+    "sass",
+    "importer"
+  ],
+  "author": "Stefan Neubert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Steditor/grunt-sass-tilde-importer/issues"
+  },
+  "homepage": "https://github.com/Steditor/grunt-sass-tilde-importer#readme"
+}
