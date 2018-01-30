@@ -20,7 +20,11 @@ with the [bootstrap sass](https://github.com/twbs/bootstrap-sass) module.
 
 Install this module with `npm install --save-dev grunt-sass-tilde-importer` and update your `Gruntfile`:
 
-Require the module with `tilde_importer = require('grunt-sass-tilde-importer');` and add
+Require the module with 
+```js
+const tilde_importer = require('grunt-sass-tilde-importer');
+```
+and add
 `importer: tilde_importer` to the options of your [grunt-sass](https://github.com/sindresorhus/grunt-sass)-configuration.
 
 Thanks go to [Dominic Tobias](http://stackoverflow.com/a/37118406/1606867) who suggested this solution.
